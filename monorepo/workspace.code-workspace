@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "main_app"
+		},
+		{
+			"path": "modules\\home_module"
+		},
+		{
+			"path": "dependency_module"
+		},
+		{
+			"path": "modules\\profile_module"
+		}
+	],
+	"settings": {}
+}
